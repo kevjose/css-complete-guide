@@ -1,0 +1,9 @@
+/* apply below style to all section tags on the page */
+section {
+  background: #ff1b68;
+}
+
+h1 {
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
